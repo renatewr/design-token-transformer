@@ -299,5 +299,17 @@
   "EffectLayerBlurType": "layerBlur",
   "EffectLayerBlurRadius": 4,
   "EffectBackgroundBlurType": "backgroundBlur",
-  "EffectBackgroundBlurRadius": 4
+  "EffectBackgroundBlurRadius": 4,
+  "AlmostBlack": "rgba(41, 40, 39, 1)",
+  "Black": "rgba(0, 0, 0, 1)",
+  "DarkGray": "rgba(72, 69, 68, 1)",
+  "Gray": "rgba(231, 230, 226, 1)",
+  "LightGray": "rgba(246, 245, 241, 1)",
+  "Blue": "rgba(48, 154, 209, 1)",
+  "Green": "rgba(77, 119, 45, 1)",
+  "Gold": "rgba(255, 215, 0, 1)",
+  "Cinnamon": "rgba(210, 105, 30, 1)",
+  "Red": "rgba(210, 0, 0, 1)",
+  "DarkRed": "rgba(196, 16, 18, 1)",
+  "Purple": "rgba(102, 38, 140, 1)"
 }

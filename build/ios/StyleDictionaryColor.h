@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Tue, 16 Feb 2021 17:56:27 GMT
+// Generated on Tue, 23 Feb 2021 08:15:18 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -34,7 +34,19 @@ GradientSingleWithMultipleColorStopsStops3Color,
 EffectDropShadowSingleColor,
 EffectInnerShadowMultiple0Color,
 EffectInnerShadowMultiple1Color,
-EffectInnerShadowMultiple2Color
+EffectInnerShadowMultiple2Color,
+AlmostBlack,
+Black,
+DarkGray,
+Gray,
+LightGray,
+Blue,
+Green,
+Gold,
+Cinnamon,
+Red,
+DarkRed,
+Purple
 };
 
 @interface StyleDictionaryColor : NSObject

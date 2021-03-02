@@ -3,16 +3,13 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Tue, 23 Feb 2021 08:20:00 GMT
+// Generated on Tue, 02 Mar 2021 10:18:54 GMT
 //
 
 
 import UIKit
 
 public class StyleDictionary {
-    public static let almostBlack = rgba(41, 40, 39, 1)
-    public static let black = rgba(0, 0, 0, 1)
-    public static let blue = rgba(48, 154, 209, 1)
     public static let bodyExtraBoldCondensedItalicFontFamily = Akzidenz-Grotesk Pro
     public static let bodyExtraBoldCondensedItalicFontSize = 12
     public static let bodyExtraBoldCondensedItalicFontStretch = condensed
@@ -125,14 +122,11 @@ public class StyleDictionary {
     public static let bordersUnsupportedMultipleBordersStrokeJoin = miter
     public static let bordersUnsupportedMultipleBordersStrokeMiterLimit = 4
     public static let bordersUnsupportedMultipleBordersStrokeWeight = 1
-    public static let cinnamon = rgba(210, 105, 30, 1)
     public static let colorsMultipleFills0 = rgba(64, 255, 186, 1)
     public static let colorsMultipleFills1 = rgba(0, 0, 0, 0.1)
     public static let colorsSingleBlue = rgba(4, 74, 255, 1)
     public static let colorsSpecialCharactersAnderung = rgba(52, 86, 175, 1)
     public static let colorsSpecialCharacters😅 = rgba(64, 223, 80, 1)
-    public static let darkGray = rgba(72, 69, 68, 1)
-    public static let darkRed = rgba(196, 16, 18, 1)
     public static let effectBackgroundBlurRadius = 4
     public static let effectBackgroundBlurType = backgroundBlur
     public static let effectDropShadowSingleColor = rgba(0, 0, 0, 0.25)
@@ -161,7 +155,6 @@ public class StyleDictionary {
     public static let effectInnerShadowMultiple2Type = innerShadow
     public static let effectLayerBlurRadius = 4
     public static let effectLayerBlurType = layerBlur
-    public static let gold = rgba(255, 215, 0, 1)
     public static let gradientMultiple0GradientType = linear
     public static let gradientMultiple0Opacity = 1
     public static let gradientMultiple0Stops0Color = rgba(255, 184, 0, 1)
@@ -196,8 +189,6 @@ public class StyleDictionary {
     public static let gradientSingleWithMultipleColorStopsStops2Position = 0.65
     public static let gradientSingleWithMultipleColorStopsStops3Color = rgba(255, 0, 0, 1)
     public static let gradientSingleWithMultipleColorStopsStops3Position = 1
-    public static let gray = rgba(231, 230, 226, 1)
-    public static let green = rgba(77, 119, 45, 1)
     public static let gridMultiple0Alignment = max
     public static let gridMultiple0Count = 7
     public static let gridMultiple0GutterSize = 20
@@ -244,7 +235,9 @@ public class StyleDictionary {
     public static let gridSingleGutterSize = 20
     public static let gridSinglePattern = columns
     public static let gridSingleSectionSize = 11
-    public static let lightGray = rgba(246, 245, 241, 1)
+    public static let iuNaPrimary2 = rgba(112, 112, 112, 1)
+    public static let iulnprimary1 = rgba(41, 40, 39, 1)
+    public static let iunaprimary1 = rgba(0, 0, 0, 1)
     public static let motionDissolveDuration = 0.45
     public static let motionDissolveEasing = cubic-bezier
     public static let motionDissolveEasingFunctionX1 = 0.6968395709991455
@@ -275,7 +268,6 @@ public class StyleDictionary {
     public static let motionSmartEasingFunctionY1 = 0
     public static let motionSmartEasingFunctionY2 = 1
     public static let motionSmartType = smart_animate
-    public static let purple = rgba(102, 38, 140, 1)
     public static let radii5RadiiBottomLeft = 5
     public static let radii5RadiiBottomRight = 5
     public static let radii5RadiiTopLeft = 5
@@ -303,7 +295,6 @@ public class StyleDictionary {
     public static let radiiSmoothingRadius = 10
     public static let radiiSmoothingRadiusType = single
     public static let radiiSmoothingSmoothing = 0.75
-    public static let red = rgba(210, 0, 0, 1)
     public static let sizes32 = 32.72
     public static let sizes40 = 40
     public static let sizes60 = 60

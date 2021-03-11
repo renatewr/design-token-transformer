@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Tue, 02 Mar 2021 10:18:54 GMT
+// Generated on Thu, 11 Mar 2021 13:08:39 GMT
 //
 
 import UIKit
@@ -116,6 +116,36 @@ public enum StyleDictionarySize {
     public static let singleCount = 5
     public static let singleGutterSize = 20
     public static let singleSectionSize = 11
+    public static let containerSubtitleFontSize = 18
+    public static let containerSubtitleFontWeight = 700
+    public static let containerSubtitleLetterSpacing = 0
+    public static let containerSubtitleLineHeight = 26
+    public static let containerSubtitleParagraphIndent = 0
+    public static let containerSubtitleParagraphSpacing = 0
+    public static let containerTitleFontSize = 22
+    public static let containerTitleFontWeight = 900
+    public static let containerTitleLetterSpacing = 0
+    public static let containerTitleLineHeight = 26
+    public static let containerTitleParagraphIndent = 0
+    public static let containerTitleParagraphSpacing = 0
+    public static let figcaptionFontSize = 16
+    public static let figcaptionFontWeight = 400
+    public static let figcaptionLetterSpacing = 0
+    public static let figcaptionLineHeight = 24
+    public static let figcaptionParagraphIndent = 0
+    public static let figcaptionParagraphSpacing = 0
+    public static let paragraphFontSize = 16
+    public static let paragraphFontWeight = 400
+    public static let paragraphLetterSpacing = 0
+    public static let paragraphLineHeight = 24
+    public static let paragraphParagraphIndent = 0
+    public static let paragraphParagraphSpacing = 0
+    public static let paragraphSFontSize = 14
+    public static let paragraphSFontWeight = 400
+    public static let paragraphSLetterSpacing = 0
+    public static let paragraphSLineHeight = 24
+    public static let paragraphSParagraphIndent = 0
+    public static let paragraphSParagraphSpacing = 0
     public static let dissolveDuration = 0.45
     public static let dissolveEasingFunctionX1 = 0.6968395709991455
     public static let dissolveEasingFunctionX2 = 0.06683959811925888
@@ -136,6 +166,36 @@ public enum StyleDictionarySize {
     public static let smartEasingFunctionX2 = 1
     public static let smartEasingFunctionY1 = 0
     public static let smartEasingFunctionY2 = 1
+    public static let containerSubtitleFontSize = 19
+    public static let containerSubtitleFontWeight = 700
+    public static let containerSubtitleLetterSpacing = 0
+    public static let containerSubtitleLineHeight = 26
+    public static let containerSubtitleParagraphIndent = 0
+    public static let containerSubtitleParagraphSpacing = 0
+    public static let containerTitleFontSize = 22
+    public static let containerTitleFontWeight = 900
+    public static let containerTitleLetterSpacing = 0
+    public static let containerTitleLineHeight = 26
+    public static let containerTitleParagraphIndent = 0
+    public static let containerTitleParagraphSpacing = 0
+    public static let figcaptionFontSize = 17
+    public static let figcaptionFontWeight = 400
+    public static let figcaptionLetterSpacing = 0
+    public static let figcaptionLineHeight = 24
+    public static let figcaptionParagraphIndent = 0
+    public static let figcaptionParagraphSpacing = 0
+    public static let paragraphFontSize = 17
+    public static let paragraphFontWeight = 400
+    public static let paragraphLetterSpacing = 0
+    public static let paragraphLineHeight = 24
+    public static let paragraphParagraphIndent = 0
+    public static let paragraphParagraphSpacing = 0
+    public static let paragraphSFontSize = 14
+    public static let paragraphSFontWeight = 400
+    public static let paragraphSLetterSpacing = 0
+    public static let paragraphSLineHeight = 24
+    public static let paragraphSParagraphIndent = 0
+    public static let paragraphSParagraphSpacing = 0
     public static let 5RadiiBottomLeft = 5
     public static let 5RadiiBottomRight = 5
     public static let 5RadiiTopLeft = 5

@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Tue, 02 Mar 2021 10:18:54 GMT
+// Generated on Thu, 11 Mar 2021 13:08:39 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -179,3 +179,63 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
+float const LocalNewsContainerTitleFontSize = 22;
+float const LocalNewsContainerTitleFontWeight = 900;
+float const LocalNewsContainerTitleLetterSpacing = 0;
+float const LocalNewsContainerTitleLineHeight = 26;
+float const LocalNewsContainerTitleParagraphIndent = 0;
+float const LocalNewsContainerTitleParagraphSpacing = 0;
+float const LocalNewsContainerSubtitleFontSize = 18;
+float const LocalNewsContainerSubtitleFontWeight = 700;
+float const LocalNewsContainerSubtitleLetterSpacing = 0;
+float const LocalNewsContainerSubtitleLineHeight = 26;
+float const LocalNewsContainerSubtitleParagraphIndent = 0;
+float const LocalNewsContainerSubtitleParagraphSpacing = 0;
+float const LocalNewsParagraphFontSize = 16;
+float const LocalNewsParagraphFontWeight = 400;
+float const LocalNewsParagraphLetterSpacing = 0;
+float const LocalNewsParagraphLineHeight = 24;
+float const LocalNewsParagraphParagraphIndent = 0;
+float const LocalNewsParagraphParagraphSpacing = 0;
+float const LocalNewsFigcaptionFontSize = 16;
+float const LocalNewsFigcaptionFontWeight = 400;
+float const LocalNewsFigcaptionLetterSpacing = 0;
+float const LocalNewsFigcaptionLineHeight = 24;
+float const LocalNewsFigcaptionParagraphIndent = 0;
+float const LocalNewsFigcaptionParagraphSpacing = 0;
+float const LocalNewsParagraphSFontSize = 14;
+float const LocalNewsParagraphSFontWeight = 400;
+float const LocalNewsParagraphSLetterSpacing = 0;
+float const LocalNewsParagraphSLineHeight = 24;
+float const LocalNewsParagraphSParagraphIndent = 0;
+float const LocalNewsParagraphSParagraphSpacing = 0;
+float const NettavisenContainerTitleFontSize = 22;
+float const NettavisenContainerTitleFontWeight = 900;
+float const NettavisenContainerTitleLetterSpacing = 0;
+float const NettavisenContainerTitleLineHeight = 26;
+float const NettavisenContainerTitleParagraphIndent = 0;
+float const NettavisenContainerTitleParagraphSpacing = 0;
+float const NettavisenContainerSubtitleFontSize = 19;
+float const NettavisenContainerSubtitleFontWeight = 700;
+float const NettavisenContainerSubtitleLetterSpacing = 0;
+float const NettavisenContainerSubtitleLineHeight = 26;
+float const NettavisenContainerSubtitleParagraphIndent = 0;
+float const NettavisenContainerSubtitleParagraphSpacing = 0;
+float const NettavisenParagraphFontSize = 17;
+float const NettavisenParagraphFontWeight = 400;
+float const NettavisenParagraphLetterSpacing = 0;
+float const NettavisenParagraphLineHeight = 24;
+float const NettavisenParagraphParagraphIndent = 0;
+float const NettavisenParagraphParagraphSpacing = 0;
+float const NettavisenFigcaptionFontSize = 17;
+float const NettavisenFigcaptionFontWeight = 400;
+float const NettavisenFigcaptionLetterSpacing = 0;
+float const NettavisenFigcaptionLineHeight = 24;
+float const NettavisenFigcaptionParagraphIndent = 0;
+float const NettavisenFigcaptionParagraphSpacing = 0;
+float const NettavisenParagraphSFontSize = 14;
+float const NettavisenParagraphSFontWeight = 400;
+float const NettavisenParagraphSLetterSpacing = 0;
+float const NettavisenParagraphSLineHeight = 24;
+float const NettavisenParagraphSParagraphIndent = 0;
+float const NettavisenParagraphSParagraphSpacing = 0;

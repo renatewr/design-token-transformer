@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Tue, 02 Mar 2021 10:18:54 GMT
+// Generated on Thu, 11 Mar 2021 13:08:39 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -178,3 +178,63 @@ extern float const EffectInnerShadowMultiple2OffsetY;
 extern float const EffectInnerShadowMultiple2Spread;
 extern float const EffectLayerBlurRadius;
 extern float const EffectBackgroundBlurRadius;
+extern float const LocalNewsContainerTitleFontSize;
+extern float const LocalNewsContainerTitleFontWeight;
+extern float const LocalNewsContainerTitleLetterSpacing;
+extern float const LocalNewsContainerTitleLineHeight;
+extern float const LocalNewsContainerTitleParagraphIndent;
+extern float const LocalNewsContainerTitleParagraphSpacing;
+extern float const LocalNewsContainerSubtitleFontSize;
+extern float const LocalNewsContainerSubtitleFontWeight;
+extern float const LocalNewsContainerSubtitleLetterSpacing;
+extern float const LocalNewsContainerSubtitleLineHeight;
+extern float const LocalNewsContainerSubtitleParagraphIndent;
+extern float const LocalNewsContainerSubtitleParagraphSpacing;
+extern float const LocalNewsParagraphFontSize;
+extern float const LocalNewsParagraphFontWeight;
+extern float const LocalNewsParagraphLetterSpacing;
+extern float const LocalNewsParagraphLineHeight;
+extern float const LocalNewsParagraphParagraphIndent;
+extern float const LocalNewsParagraphParagraphSpacing;
+extern float const LocalNewsFigcaptionFontSize;
+extern float const LocalNewsFigcaptionFontWeight;
+extern float const LocalNewsFigcaptionLetterSpacing;
+extern float const LocalNewsFigcaptionLineHeight;
+extern float const LocalNewsFigcaptionParagraphIndent;
+extern float const LocalNewsFigcaptionParagraphSpacing;
+extern float const LocalNewsParagraphSFontSize;
+extern float const LocalNewsParagraphSFontWeight;
+extern float const LocalNewsParagraphSLetterSpacing;
+extern float const LocalNewsParagraphSLineHeight;
+extern float const LocalNewsParagraphSParagraphIndent;
+extern float const LocalNewsParagraphSParagraphSpacing;
+extern float const NettavisenContainerTitleFontSize;
+extern float const NettavisenContainerTitleFontWeight;
+extern float const NettavisenContainerTitleLetterSpacing;
+extern float const NettavisenContainerTitleLineHeight;
+extern float const NettavisenContainerTitleParagraphIndent;
+extern float const NettavisenContainerTitleParagraphSpacing;
+extern float const NettavisenContainerSubtitleFontSize;
+extern float const NettavisenContainerSubtitleFontWeight;
+extern float const NettavisenContainerSubtitleLetterSpacing;
+extern float const NettavisenContainerSubtitleLineHeight;
+extern float const NettavisenContainerSubtitleParagraphIndent;
+extern float const NettavisenContainerSubtitleParagraphSpacing;
+extern float const NettavisenParagraphFontSize;
+extern float const NettavisenParagraphFontWeight;
+extern float const NettavisenParagraphLetterSpacing;
+extern float const NettavisenParagraphLineHeight;
+extern float const NettavisenParagraphParagraphIndent;
+extern float const NettavisenParagraphParagraphSpacing;
+extern float const NettavisenFigcaptionFontSize;
+extern float const NettavisenFigcaptionFontWeight;
+extern float const NettavisenFigcaptionLetterSpacing;
+extern float const NettavisenFigcaptionLineHeight;
+extern float const NettavisenFigcaptionParagraphIndent;
+extern float const NettavisenFigcaptionParagraphSpacing;
+extern float const NettavisenParagraphSFontSize;
+extern float const NettavisenParagraphSFontWeight;
+extern float const NettavisenParagraphSLetterSpacing;
+extern float const NettavisenParagraphSLineHeight;
+extern float const NettavisenParagraphSParagraphIndent;
+extern float const NettavisenParagraphSParagraphSpacing;

@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Tue, 02 Mar 2021 10:18:54 GMT
+// Generated on Thu, 11 Mar 2021 13:08:39 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -35,9 +35,21 @@ EffectDropShadowSingleColor,
 EffectInnerShadowMultiple0Color,
 EffectInnerShadowMultiple1Color,
 EffectInnerShadowMultiple2Color,
-Iunaprimary1,
-Iulnprimary1,
-IuNaPrimary2
+LocalNewsLightgray,
+LocalNewsBlue,
+LocalNewsAlertred,
+LocalNewsTransparentgray,
+LocalNewsWhite,
+LocalNewsLightergray,
+LocalNewsAlmostblack,
+NettavisenBlack,
+NettavisenDarkgray,
+NettavisenLightgray,
+NettavisenBlue,
+NettavisenAlertred,
+NettavisenTransparentgray,
+NettavisenWhite,
+NettavisenBackground
 };
 
 @interface StyleDictionaryColor : NSObject
